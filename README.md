@@ -7,7 +7,7 @@ Below is the communication between components and dependency. This dependency co
 ### WEB TIER:
 * Usually web tier is the one which has frontend technologies like HTML, CSS, Java Script (React/Angular/Node).
 * We use web server to deploy these kind of applications.
-* Earlier Apache Server was popular, Now Nginx is the most popular web server.
+* Earlier Apache Server was popular, Now Nginx is the most popular web server...
 
 ### APP TIER:
 * APP/API Tier is the one which has backend technologies like Java, .NET, Python, Go, Php, etc.
